@@ -20,7 +20,7 @@
       },
       {
         "tag": "censored",
-        "patterns": ["feia", "boba", "chata", "vai pro inferno", "puta", "quer casar comigo?", "sua gostosa"],
+        "patterns": ["feia", "boba", "chata", "vai pro inferno", "puta", "sua gostosa"],
         "responses": ["Não toleramos nenhum tipo de assédio."],
         "context": [""]
       },
